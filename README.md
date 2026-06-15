@@ -49,7 +49,7 @@ This project demonstrates **Infrastructure as Code (IaC)** by using **Terraform*
 ![Terraform Plan](terraform-plan.png)
 
 ### 5. Terraform State List
-![Terraform State](terraform-state list.png)
+![Terraform State](terraform-state.png)
 
 ---
 
